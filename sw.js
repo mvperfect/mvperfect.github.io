@@ -5,7 +5,7 @@ self.addEventListener('install', (event) => {
     .open('bayer-quiz-pwa-cache')
     .then((cache) =>
       cache.addAll([
-        '/bayer-quiz.html',
+        '/',
         '/static/app.js',
         '/static/tablet1.jpg',
         '/static/bg-with-lady.jpg',
