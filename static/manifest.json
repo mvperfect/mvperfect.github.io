@@ -1,7 +1,7 @@
 {
   "name": "bayer-quiz",
   "short_name": "bayer-quiz",
-  "start_url": ".",
+  "start_url": "/bayer-quiz.html",
   "display": "standalone",
   "background_color": "#fff",
   "description": "Bayer Quiz",
